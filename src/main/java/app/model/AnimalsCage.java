@@ -15,7 +15,7 @@ public class AnimalsCage {
     private Timer timer;
 
     public Timer getTimer() {
-        return this.timer;
+        return timer;
     }
 
 
